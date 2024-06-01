@@ -1,0 +1,5 @@
+outs:
+- md5: 959bcc2300bda4852fbb4b60b421f39b
+  size: 3075
+  hash: md5
+  path: data.xml
